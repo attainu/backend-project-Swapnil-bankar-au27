@@ -4,9 +4,9 @@
     "main": "server.js",
     "scripts": {
         "dev": "nodemon server.js",
-        "dev2": "nodemon index.js",
+
         "server": "node server.js",
-        "test": "npm run",
+
         "start": "node server.js"
     },
     "keywords": [],
@@ -29,7 +29,18 @@
         "yarn": "^1.22.18"
     },
     "devDependencies": {
-        "nodemon": "^2.0.15"
+        "nodemon": "^2.0.16"
     },
+    "directories": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/attainu/backend-project-Swapnil-bankar-au27.git"
+    },
+    "bugs": {
+        "url": "https://github.com/attainu/backend-project-Swapnil-bankar-au27/issues"
+    },
+    "homepage": "https://github.com/attainu/backend-project-Swapnil-bankar-au27#readme",
     "description": ""
 }
